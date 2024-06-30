@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Grover</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [tushr.tech/portfolio](tushr.tech/portfolio)
+- 👨‍💻 All of my projects are available at [https://tushr.tech/portfolio](https://tushr.tech/portfolio)
 
-- 📄 Know about my experiences [tushr.tech/resume](tushr.tech/resume)
+- 📄 Know about my experiences [https://tushr.tech/resume](https://tushr.tech/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
